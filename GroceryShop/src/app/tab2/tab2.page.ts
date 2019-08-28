@@ -24,11 +24,10 @@ items=[
     quantity: 5
   }
 ];
-}
-/*
+};
+
   constructor(public navCtrl:NavController,public toastCtrl:ToastController,
   public alertCtrl: AlertController) {
-
   }
 };
   
@@ -73,8 +72,7 @@ showAddItemPrompt(item){
         }
       }
     ]
-  })
+}),
 }
 
-}
-*/
+};
